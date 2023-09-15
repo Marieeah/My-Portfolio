@@ -35,7 +35,7 @@ During my journey, I've tackled hands-on projects, such as [Project Title 1] and
 **Education:**
 
 - Software Engineering Student at ALX,
-  Expected Graduation: July 2024
+  Expected Graduation: July 2024.
 
 **Other Skills:**
 
