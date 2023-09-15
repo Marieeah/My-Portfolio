@@ -1,7 +1,7 @@
 # Soeso Maria - Software Engineering and DevOps Enthusiast
 
 **Introduction:**
-Hello, I'm Maria Soeso, a budding software engineer and aspiring DevOps enthusiast. My fascination with technology's boundless possibilities has fueled my journey. As a student at ALX, I'm building a strong foundation in programming languages like C and Python, learning about Git, and diving into the intricacies of algorithm design.
+Hello, I'm Soeso Maria, a budding software engineer and aspiring DevOps enthusiast. My fascination with technology's boundless possibilities has fueled my journey. As a student at ALX, I'm building a strong foundation in programming languages like C and Python, learning about Git, and diving into the intricacies of algorithm design.
 
 However, what truly excites me is the philosophy of DevOps. The idea of fostering collaboration, automation, and continuous improvement resonates with me deeply. I believe that DevOps is not just a set of practices; it's a culture of innovation and efficiency that empowers organizations to deliver exceptional products and services to their customers.
 
@@ -35,7 +35,7 @@ During my journey, I've tackled hands-on projects, such as [Project Title 1] and
 **Education:**
 
 - Software Engineering Student at ALX
-    Expected Graduation: July 2024
+  Expected Graduation: July 2024
 
 **Other Skills:**
 
